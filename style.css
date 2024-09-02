@@ -7,8 +7,19 @@
     }
 }
 
-.fadeIn{
-animation: fadeIn 2s ease-in;
-
+.fadeIn {
+    animation: fadeIn 2s ease-in;
 }
 
+button {
+    border: none;
+    border-radius: 5px;
+    margin-right: 5px;
+    margin-top: 5px;
+    width: 10vh;
+    height: 5vh;
+    background-image: url("https://images.app.goo.gl/nNRDZk1yzZEe7Vc18");
+    background-size: cover;
+    background-repeat: no-repeat;
+    cursor: pointer;
+}
